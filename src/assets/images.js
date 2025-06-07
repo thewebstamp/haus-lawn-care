@@ -10,7 +10,6 @@ import spring from './spring-min.jpg';
 import snow from './snow-min.jpg';
 import stone from './stone-min.jpg';
 import shrub from './shrub-min.jpg';
-import heroBackground from './herobackground-min.jpg';
 import heroImg1 from './himg1-min.jpg';
 import heroImg2 from './himg2-min.jpg';
 import heroImg3 from './himg3-min.jpg';
@@ -71,7 +70,6 @@ export const Images = {
     snow,
     stone,
     shrub,
-    heroBackground,
     heroImg1,
     heroImg2,
     heroImg3,
